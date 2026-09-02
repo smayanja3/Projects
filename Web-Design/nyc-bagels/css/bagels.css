@@ -1,0 +1,145 @@
+*{
+    color:rgb(53, 24, 7);
+    margin:0;
+    padding:0;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background: rgb(255,256,248);
+}
+h1{
+    font-size: 2.7em;
+    color:rgb(29, 20, 111);
+}
+main{
+    background-image: url(main.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:500px;
+}
+
+nav ul{ 
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    gap: 27px;
+    margin: 10px 570px;
+    font-style: italic;
+    justify-content: center;
+}
+li> a{
+    text-decoration: none;
+}
+h2{
+    font-size: 2em;
+}
+
+header{
+    padding:45px 0 20px 0;
+}
+
+
+#bagels h2{
+    margin-bottom: 20px;
+}
+
+#bagels{
+    margin: 80px 30px;
+
+}
+
+#coffee{
+    margin: 120px 0 80px 0;
+    text-align: center;
+}
+
+#coffee h2{
+    margin:20px 0;
+   
+
+}
+
+#coffee p{
+    padding:0 195px; 
+    margin: 5px 380px;
+}
+.container{
+    margin: 40px 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:stretch;
+    gap:1.5rem;
+    /* max-width:2rem; */
+}
+
+.food{
+    border: 2px black solid;
+    margin:0 40px;
+    height: 380px;
+    width: 325px;
+/* flex: 1 1 200px; */
+}
+
+.sarah{
+    height:241px;
+    width:326px;
+    object-fit: cover;
+}
+
+.boiled h3{
+    text-align: left;
+    padding-top:10px;
+    padding-left:15px;
+}
+
+.boiled p{
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 50px;
+}
+
+.boiled .dollar{
+    font-size: 1.3rem;
+    color:rgb(29, 20, 111);
+    text-align: left;
+    font-weight: bold;
+
+}
+/* .imgContainer{
+    height:200px;
+    width:200px;
+}
+
+
+.imgContainer > img{
+     object-fit:cover; 
+} */
+
+.visit{
+    border-top:2px solid black;
+    padding:35px 0;
+    line-height: 30px;
+}
+
+
+/* Delancey bagels - h1 
+home /bagels / coffee - nav bar
+
+all text brown
+
+image - as main 
+add as bg 
+
+margin - left and right to whole website?
+margin - clear- 0? 
+
+body- 
+text align center/ width 100%*/
+
+
+
