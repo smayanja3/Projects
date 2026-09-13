@@ -5,10 +5,10 @@ Welcome to my project repository! This workspace contains a collection of web ap
 # 📂 Projects Directory
 A collection of my web development projects and prototypes.
 
-* **[Barbershop](Barbershop)** - Brief description of what the project does.
-* **[JWLIA](JWLIA)** - Brief description of what the project does.
-* **[Landscaping](Landscaping)** - Brief description of what the project does.
-* **[BagelShop](BagelShop)** - Brief description of what the project does.
+* **[Barbershop](./Barbershop)** - Brief description of what the project does.
+* **[JWLIA](./JWLIA)** - Brief description of what the project does.
+* **[Landscaping](./Landscaping)** - Brief description of what the project does.
+* **[BagelShop](./BagelShop)** - Brief description of what the project does.
  
 
 ## 🛠️ Core Tech Stack
