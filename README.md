@@ -5,10 +5,10 @@ Welcome to my project repository! This workspace contains a collection of web ap
 # 📂 Projects Directory
 A collection of my web development projects and prototypes.
 
-* **[Barbershop]** - Brief description of what the project does.
-* **[JWLIA]** - Brief description of what the project does.
-* **[Landscaping]** - Brief description of what the project does.
-* **[BagelShop]** - Brief description of what the project does.
+* **[Barbershop](./web-design/BagelShop)** - A clean, professional booking and service page designed for a local barbershop in the Boston area.
+* **[JWLIA](./web-design/JWLIA)** - A specialized profile and web page highlighting a Japanese founder and their entrepreneurial vision.
+* **[Landscaping](./web-design/Landscaping)** - A professional service and portfolio website designed to showcase landscaping, lawn care, and outdoor property management services.
+* **[BagelShop](./web-design/BagelShop)** - A modern, responsive website prototype for a New York City bagel shop featuring mouth-watering menus and location details.
  
 
 ## 🛠️ Core Tech Stack
